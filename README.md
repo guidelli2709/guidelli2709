@@ -11,13 +11,11 @@ Olá! Eu sou Ana Beatriz.
 
 Utilizo este espaço para organizar e compartilhar os meus projetos desenvolvidos durante meus estudos e práticas. Aqui, você encontrará uma coleção dos meus trabalhos e experimentos com código.
 
-## Projetos
-
-- [Projeto 1](link): Descrição do projeto.
-- [Projeto 2](link): Descrição do projeto.
 
 ## Contato
 
 - Email: Ana.guidelli.santos@escola.pr.gov.br
 - 
 - Instagram: @saantsxx._
+
+![](![image](https://github.com/user-attachments/assets/1210af37-8ee8-4b34-89a2-eaa87f440aca))
