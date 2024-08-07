@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ana Beatriz
 
-<!--
-**guidelli2709/guidelli2709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou Ana Beatriz.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Estudante na Alura:** Estou atualmente estudando na Alura, onde estou expandindo meus conhecimentos em várias áreas de tecnologia.
+- **Aprendendo JavaScript:** Estou aprendendo a usar a linguagem JavaScript e explorando suas diversas aplicações no desenvolvimento web.
+
+## Objetivo
+
+Utilizo este espaço para organizar e compartilhar os meus projetos desenvolvidos durante meus estudos e práticas. Aqui, você encontrará uma coleção dos meus trabalhos e experimentos com código.
+
+## Projetos
+
+- [Projeto 1](link): Descrição do projeto.
+- [Projeto 2](link): Descrição do projeto.
+
+## Contato
+
+- Email: Ana.guidelli.santos@escola.pr.gov.br
+- 
+- Instagram: @saantsxx._
